@@ -4,6 +4,8 @@ This repository contains the dataset and code used for our paper *"The Shifting 
 
 The ```dataset/vaccines_tweet_ids``` folder contains ```.zip``` files with tweet ids of vaccine tweets from years 2013-2022. The ```dataset/control_medical_tweet_ids``` contains the tweet IDs of tweets with medical terms. 
 
+The tweet-ID lists in `dataset/` are released under CC BY 4.0 (see [LICENSE](LICENSE)); the code in `code/` retains the MIT license from Emotion Dynamics (see [code/EmotionDynamics/LICENSE](code/EmotionDynamics/LICENSE)).
+
 If you use any of the tweets data, cite our paper as follows:
 
     @article{gyawali2025shifting,
